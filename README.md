@@ -1,6 +1,6 @@
 # AlternativeInterface
 
-This idea is to change the way we communicate and how we want to do so. I want to present the following ideas, with the date of when it was thought to be includded in this README.
+This idea is to change the way we communicate and how we want to do so. I want to present the following ideas, with the date of when it was thought to be included in this README.
 
 This idea is mostly changing the current environment for computers. I am thinking that there is a new revolution pending where old tech and new functionalities coexist side-by-side rather than thinking of a linear evolution of technology.
 
